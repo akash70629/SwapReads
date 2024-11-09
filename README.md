@@ -86,11 +86,13 @@
 │   │   ├── about.css
 │   │   ├── aboutus.css
 │   │   ├── addremove.css
+│   │   ├── blog.css
 │   │   ├── checkout.css
 │   │   ├── contributor.css
 │   │   ├── event.css
 │   │   ├── forgot-pass.css
 │   │   ├── freeBooks.css
+│   │   ├── inbox.css
 │   │   ├── litrary_realms.css
 │   │   ├── login.css
 │   │   ├── playNow.css
@@ -99,6 +101,7 @@
 │   │   ├── read_later.css
 │   │   ├── readerConn.css
 │   │   ├── refresher.css
+│   │   ├── settings.css
 │   │   ├── socialmedia.css
 │   │   ├── style.css
 │   │   ├── styles.css
@@ -171,6 +174,7 @@
 │   │   ├── booklistswap.html
 │   │   ├── bookpref.html
 │   │   ├── borrow.html
+│   │   ├── boy.html
 │   │   ├── checkout.html
 │   │   ├── classic.html
 │   │   ├── comedy.html
@@ -183,6 +187,7 @@
 │   │   ├── experimental-fiction.html
 │   │   ├── fairytale.html
 │   │   ├── fantasy.html
+│   │   ├── fine.html
 │   │   ├── forgot-pass.html
 │   │   ├── freeBooks.html
 │   │   ├── god.html
@@ -191,6 +196,7 @@
 │   │   ├── horror.html
 │   │   ├── image.png
 │   │   ├── img.png
+│   │   ├── inbox.html
 │   │   ├── login.html
 │   │   ├── magical-realism.html
 │   │   ├── maha.html
@@ -199,6 +205,7 @@
 │   │   ├── mood.html
 │   │   ├── mylogin.html
 │   │   ├── mythology.html
+│   │   ├── nectar.html
 │   │   ├── ngo.html
 │   │   ├── noir.html
 │   │   ├── nonfiction.html
@@ -217,11 +224,13 @@
 │   │   ├── school.html
 │   │   ├── science-fiction.html
 │   │   ├── self-help.html
+│   │   ├── settings.html
 │   │   ├── social.html
 │   │   ├── suspense-thriller.html
 │   │   ├── tips.html
 │   │   ├── top10.html
 │   │   ├── true-crime.html
+│   │   ├── un.html
 │   │   └── utopian.html
 │   ├── images/
 │   │   ├── 1.jpg
@@ -257,6 +266,7 @@
 │   │   ├── alt.jpeg
 │   │   ├── alter.jpeg
 │   │   ├── american.jpg
+│   │   ├── animal.jpeg
 │   │   ├── anna_karenina.jpg
 │   │   ├── ariel.webp
 │   │   ├── atomic.jpeg
@@ -268,6 +278,7 @@
 │   │   ├── avatar4.jpg
 │   │   ├── avatar5.jpg
 │   │   ├── award.svg
+│   │   ├── babb.jpeg
 │   │   ├── bad.jpg
 │   │   ├── be.jpeg
 │   │   ├── beach.jpg
@@ -320,6 +331,7 @@
 │   │   ├── case.jpg
 │   │   ├── castle.png
 │   │   ├── catch.jpg
+│   │   ├── catch22.jpg
 │   │   ├── catcher_in_the_rye.jpg
 │   │   ├── chain.jpg
 │   │   ├── child.jpg
@@ -362,6 +374,7 @@
 │   │   ├── dracula.jpeg
 │   │   ├── dracula.webp
 │   │   ├── dragon.jpg
+│   │   ├── dunces.jpeg
 │   │   ├── dune.jpg
 │   │   ├── duno.jpeg
 │   │   ├── duno.jpg
@@ -389,18 +402,19 @@
 │   │   ├── final.png
 │   │   ├── fire.jpg
 │   │   ├── first-5-read.png
+│   │   ├── five.jpeg
 │   │   ├── foundation.jpeg
 │   │   ├── frankenstein.jpg
 │   │   ├── frog.jpg
 │   │   ├── fun.jpg
 │   │   ├── game.jpg
+│   │   ├── genre.jpg
 │   │   ├── genres/
 │   │   │   ├── 1.jpg
 │   │   │   ├── 10.jpg
 │   │   │   ├── 2.jpg
 │   │   │   ├── 3.jpg
 │   │   │   ├── 4.jpg
-│   │   │   ├── 5.jpeg
 │   │   │   ├── 6.jpg
 │   │   │   ├── 7.jpg
 │   │   │   ├── 8.jpg
@@ -525,6 +539,7 @@
 │   │   ├── mona.jpeg
 │   │   ├── moon.png
 │   │   ├── moon_solid.svg
+│   │   ├── motivation.jpg
 │   │   ├── murder.jpg
 │   │   ├── my.jpg
 │   │   ├── mystery.jpg
@@ -552,6 +567,7 @@
 │   │   ├── ocean.jpg
 │   │   ├── odd.jpg
 │   │   ├── odyssey.jpg
+│   │   ├── omens.jpeg
 │   │   ├── oryx.jpeg
 │   │   ├── oryx.jpg
 │   │   ├── out.jpg
@@ -575,6 +591,7 @@
 │   │   ├── pride.jpg
 │   │   ├── priory.jpg
 │   │   ├── pross.jpeg
+│   │   ├── psh.jpeg
 │   │   ├── ramayana.jpeg
 │   │   ├── rapun.jpg
 │   │   ├── re.jpg
@@ -595,6 +612,7 @@
 │   │   ├── sch.jpg
 │   │   ├── sci.jpg
 │   │   ├── science.jpg
+│   │   ├── sell.jpg
 │   │   ├── settings.png
 │   │   ├── shantaram.jpg
 │   │   ├── share-books.png
@@ -608,6 +626,7 @@
 │   │   ├── silentp.jpg
 │   │   ├── sim.jpg
 │   │   ├── sings.jpeg
+│   │   ├── smoke.jpeg
 │   │   ├── snow.jpeg
 │   │   ├── snowcrash.jpg
 │   │   ├── snowq.jpg
@@ -665,6 +684,7 @@
 │   │   ├── winter.jpg
 │   │   ├── woman.jpg
 │   │   ├── wood.jpg
+│   │   ├── world.jpeg
 │   │   ├── wuthering_heights.jpg
 │   │   ├── wwz.jpg
 │   │   ├── yes.jpg
@@ -815,6 +835,7 @@
 ├── subscribe.html
 ├── sw.js
 ├── terms&cond.html
+├── terms.css
 ├── testp.css
 ├── testp.js
 ├── thrilling-adventures.html
